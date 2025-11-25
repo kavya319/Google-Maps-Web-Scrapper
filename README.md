@@ -2,7 +2,10 @@
 
 
 **🗺️ Google Maps Business Scraper**
+
+
 Project Overview
+
 This is an intermediate-level Python web scraping project designed to extract detailed business information from Google Maps listings. It automates the process of searching a specific location for a specific business type (e.g., "dentists in London"), scrolling through the results, and saving the structured data to Excel and CSV files.
 
 This project uses Playwright for robust browser automation to handle dynamic content, demonstrating skills in data extraction and automated data pipelines.
